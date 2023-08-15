@@ -16,8 +16,10 @@ Full Stack Developer
 ### Skills
 
 
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,postgresql,sequelize" />
+  </a>
 </p>
 
 
