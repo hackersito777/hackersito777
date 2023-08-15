@@ -1,5 +1,6 @@
 ### Hi there 👋
-![LOL](https://github.com/hackersito777/hackersito777/assets/51102070/02a83d26-28b3-4172-a5e0-d2e293db51a4)
+![LOL](https://github.com/hackersito777/hackersito777/assets/51102070/3389bbd0-4297-4e44-988d-1e19b11f3d2f)
+
 
 <!--
 **hackersito777/hackersito777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
